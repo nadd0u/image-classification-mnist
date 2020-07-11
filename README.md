@@ -1,1 +1,2 @@
 # Computer-Vision-for-Image-Classification
+In this project, I implement artificial neural networks for handwritten digits recognition. I experiment with two dimensions of the problem: the paramaters of the model and the dimensions of the data. The first part of the project examines alternative neural net structures with a simple, single-hidden layer network. The second part of the project explores the affect on model speed and accuracy of different sixe and style compressions of the training data.
